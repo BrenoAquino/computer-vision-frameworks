@@ -8,7 +8,7 @@ Existem 4 _scripts_ responsaveis pela configuração do projeto
 
 > :warning: É necessario está na pastar dos `scripts` para executa-los
 
-1. [`tfod/setup_project.py`](tfod/setup_project.py)
+1. [`tfod/setup_project.py`](setup_project.py)
     - Esse _script_ executa todos os outros na ordem necessária, ou seja, basta rodar ele que configurará o projeto como um todo com o TFOD. Existe a possibilidade de pular algumas etapas, caso queira
 1. [`tfod/setup_folders.py`](tfod/setup_folders.py)
     - Esse _script_ cria as pastas padrões do projeto
