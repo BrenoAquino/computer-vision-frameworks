@@ -27,3 +27,4 @@ Existe também um _script_ auxiliar que ajuda a converter as imagens com os aqui
 
 1. [`tfod/xml_to_tf_record.py`](xml_to_tf_record.py)
     - Esse _script_ transforma imagens com as _tags_ de _xml_ para _tfrecord_ (extensão utilizada pelo TensorFlow)
+        - Autor [Nicholas Renotte](https://github.com/nicknochnack) e [Repositório](https://github.com/nicknochnack/GenerateTFRecord)
