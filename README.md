@@ -7,7 +7,7 @@ São disponibilizados também alguns _scripts_ simples para configuração de al
 Cada guia e _script_ estão nos arquivos/pastas com o nome ou acrônimo da _framework_.
 
 - TensorFlow Object Detection API ([Guia](tfod.md)/[_Scripts_](tfod/))
-- OpenCV DNN ([Instalação com GPU]("opencv_gpu.md"))
+- OpenCV DNN ([Instalação com GPU](opencv_gpu.md))
 
 ## _Frameworks_ WIP
 - Uso do OpenCV DNN
