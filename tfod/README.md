@@ -12,10 +12,12 @@ Existem 4 _scripts_ responsaveis pela configuração do projeto
     - Esse _script_ executa todos os outros na ordem necessária, ou seja, basta rodar ele que configurará o projeto como um todo com o TFOD. Existe a possibilidade de pular algumas etapas, caso queira
 1. [`tfod/setup_folders.py`](setup_folders.py)
     - Esse _script_ cria as pastas padrões do projeto
-        - └─ workspace/
-                └─ dataset/
-                └─ pre_trained_models/
-                └─ custom_model/
+```
+└─ workspace/
+    └─ dataset/
+    └─ pre_trained_models/
+    └─ custom_model/
+```
 1. [`tfod/setup_protoc.py`](setup_protoc.py)
     - Esse _script_ baixa e configura o [_protoc_](https://github.com/protocolbuffers/protobuf) que será utilizado para compilar o TFOD
 1. [`tfod/setup_tfod.py`](setup_tfod.py)
