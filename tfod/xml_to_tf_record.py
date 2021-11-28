@@ -1,4 +1,8 @@
-""" Sample TensorFlow XML-to-TFRecord converter
+""" 
+Author: Nicholas Renotte
+Author Github: https://github.com/nicknochnack/GenerateTFRecord
+
+Sample TensorFlow XML-to-TFRecord converter
 
 usage: generate_tfrecord.py [-h] [-x XML_DIR] [-l LABELS_PATH] [-o OUTPUT_PATH] [-i IMAGE_DIR] [-c CSV_PATH]
 
