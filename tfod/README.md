@@ -6,7 +6,7 @@ Existem 4 _scripts_ responsaveis pela configuração do projeto
 
 > :warning: É recomendado utilizar um ambiente virtual, como o _virtualenv_.
 
-> :warning: É necessario está na pastar dos `scripts` para executa-los
+> :warning: É necessario estar na pastar dos `scripts` para executa-los
 
 1. [`tfod/setup_project.py`](setup_project.py)
     - Esse _script_ executa todos os outros na ordem necessária, ou seja, basta rodar ele que configurará o projeto como um todo com o TFOD. Existe a possibilidade de pular algumas etapas, caso queira
